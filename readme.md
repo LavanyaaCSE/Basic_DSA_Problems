@@ -58,7 +58,7 @@ It is designed for beginners to practice fundamental programming concepts and ba
 1. Clone the repository:
 
 ```python
-git clone https://github.com/your-username/basic-dsa-problems.git
+git clone https://github.com/LavanyaaCSE/Basic_DSA_Problems.git
 ```
 
 2. Open the folder for the topic you want to practice.
